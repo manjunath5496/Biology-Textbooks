@@ -313,6 +313,30 @@ projections directed to the auditory pathway</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(56).pdf" style="text-decoration:none;">Origin and Classification of
 Neocortical Interneurons</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(57).pdf" style="text-decoration:none;">Gapped BLAST and PSI-BLAST: a new generation of protein database search programs</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(58).pdf" style="text-decoration:none;">Bioinformatics:
+Databases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(59).pdf" style="text-decoration:none;">Bioinformatics:
+Introduction</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(60).pdf" style="text-decoration:none;">A database of macromolecular motions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(61).pdf" style="text-decoration:none;">Bioinformatics:
+Sequences</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(62).pdf" style="text-decoration:none;">Bioinformatics: Simulation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(63).pdf" style="text-decoration:none;">Bioinformatics:
+Structures</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(64).pdf" style="text-decoration:none;">The Relationship between Protein Structure and Function: a Comprehensive Survey with Application to the Yeast Genome</a></li>
+
+
+
+
+
 </ul>
 </br>
 <p> <strong> Genomics and Computational Biology [Lecture Notes]</strong> </p>
