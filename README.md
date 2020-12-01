@@ -72,12 +72,13 @@ for All</a></li>
 <p class="style9"><strong>Lecture Topic 5:</strong>&nbsp;<a class="internal-link" title="MoBoAll" href="MoBoAll.pdf" target="_blank">Molecular Biology (Handouts 1-8)</a></p>
 <p class="style4"><span class="style8"><strong>Lecture Topic 6:</strong></span>&nbsp;<a class="internal-link" title="CancerAll" href="CancerAll.pdf" target="_blank">Cancer (Handouts 1-4)</a></p>
 </br>
+<h4>Lecture Notes</h4><hr>
 <h4 id="parent-fieldname-title" class="documentFirstHeading">Introduction Notes</h4>
 <ul>
 <li><a class="internal-link" title="Introduction1" href="Introduction1.pdf">Introduction 1</a></li>
 <li><a class="internal-link" title="Introduction2" href="Introduction2.pdf">Introduction 2</a></li>
 </ul>
-<h4>Lecture Notes</h4><hr>
+
 <h4 id="parent-fieldname-title" class="documentFirstHeading">Genetics</h4>
 
 <ul>
