@@ -50,6 +50,7 @@ for All</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(24).pdf" style="text-decoration:none;">Entomology 311 Lab Manual</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(25).pdf" style="text-decoration:none;">Human Nutrition</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(26).pdf" style="text-decoration:none;">Exploring Physical Phenomena</a></li> 
 
 
 
