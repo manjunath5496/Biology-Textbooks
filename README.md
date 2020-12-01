@@ -29,8 +29,18 @@ Introduction to Human Osteology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(12).pdf" style="text-decoration:none;">
 Human Anatomy and Physiology I</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(13).pdf" style="text-decoration:none;">Environmental Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(14).pdf" style="text-decoration:none;">
+General Microbiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(15).pdf" style="text-decoration:none;">An Introduction to Molecular Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(16).pdf" style="text-decoration:none;">A Guide to the Principles of Animal Nutrition</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(17).pdf" style="text-decoration:none;">Foundations of Epidemiology</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(18).pdf" style="text-decoration:none;">
+Applied Bioinformatics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(19).pdf" style="text-decoration:none;">Monitoring Animal Populations and Their Habitats: A Practitioner's Guide</a></li>                              
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(20).pdf" style="text-decoration:none;">Marine Law and Policy for Scientists and Managers</a></li> 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(21).pdf" style="text-decoration:none;">Chemical Biology and Biochemistry Laboratory Using Genetic Code Expansion Manual</a></li> 
 </ul>
