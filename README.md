@@ -337,7 +337,7 @@ Neocortical Interneurons</a></li>
 </tr>
 <tr>
 <td width="85%">
-<p>RNA 1:&nbsp;<strong>Quantitation concepts</strong>; Microarrays, library sequencing<br /><a href="lecturenotes/03e_oct14_r1.ppt" data-smd-id="s38">MS-PPT</a>&nbsp;&nbsp;<br /><a href="lecturenotes/Section04.pdf" data-smd-id="s41">Section 4 notes</a>&nbsp;<br /><a href="sectionnotes/Using_Microarrays.pdf" data-smd-id="s43">Using Microarrays</a>&nbsp;</p>
+<p>RNA 1:&nbsp;<strong>Quantitation concepts</strong>; Microarrays, library sequencing<br /><a href="lecturenotes/03e_oct14_r1.ppt" data-smd-id="s38">MS-PPT</a>&nbsp;&nbsp;<br /><a href="lecturenotes/Section04.pdf" data-smd-id="s41">Section 4 notes</a>&nbsp;<br />&nbsp;</p>
 </td>
 </tr>
 <tr>
