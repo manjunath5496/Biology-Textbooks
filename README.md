@@ -76,7 +76,7 @@ for All</a></li>
 <p class="style4"><span class="style8"><strong>Lecture Topic 9:</strong></span>&nbsp;<a class="internal-link" title="Plants-Handout" href="Plants-Handout.pdf" target="_blank">Plants (Handouts 1-5)</a></p>
 <p class="style4"><span class="style8"><strong>Lecture Topic 10:</strong></span>&nbsp;<a class="internal-link" title="Animals-Handout" href="Animals-Handout.pdf" target="_blank">Animals (Handouts 1-5)</a></p>
 <p class="style4"><span class="style8"><strong>Lecture Topic 11:</strong></span>&nbsp;<a class="internal-link" title="Physiology-Handout" href="Physiology-Handout.pdf" target="_blank">Physiology (Handouts 1-8)</a></p>
-
+<p class="style4"><span class="style8"><strong>Lecture Topic 12:</strong></span>&nbsp;<a class="internal-link" title="Ecology-Handout" href="Ecology-Handout.pdf" target="_blank">Ecology (Handouts 1-8)</a></p>
 </br>
 <h4>Lecture Notes</h4><hr>
 <h4 id="parent-fieldname-title" class="documentFirstHeading">Introduction Notes</h4>
