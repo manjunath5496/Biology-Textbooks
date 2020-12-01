@@ -314,7 +314,8 @@ projections directed to the auditory pathway</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(56).pdf" style="text-decoration:none;">Origin and Classification of
 Neocortical Interneurons</a></li>
 </ul>
-
+</br>
+<p> <strong> Genomics and Computational Biology [Lecture Notes]</strong> </p>
 
 
 <table width="524">
