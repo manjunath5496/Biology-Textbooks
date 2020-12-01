@@ -397,3 +397,17 @@ Structures</a></li>
 </tbody>
 </table>
 </br>
+<ul>
+<li><a href="2/align1.pdf" data-smd-id="s5">Global sequence alignment</a></li>
+<li><a href="2/align2.pdf" data-smd-id="s6">Local sequence alignment</a></li>
+<li>Multiple sequence alignments,&nbsp;<a href="2/msa1.pdf" data-smd-id="s7">part I</a>,&nbsp;<a href="2/msa2.pdf" data-smd-id="s8">part II</a>,&nbsp;<a href="2/MSA-slides.pdf" data-smd-id="s9">slides</a></li>
+<li>Database Searching: Blast and Fast. (<a href="2/database.pdf" data-smd-id="s10">Draft notes</a>)</li>
+<li><a href="2/profiles.pdf" data-smd-id="s11">Motifs and profile analysis</a>.</li>
+<li><a href="2/HMM1.pdf" data-smd-id="s12">HMMs and profile analysis</a>,&nbsp;<a href="2/hmm.pdf" data-smd-id="s13">2000 draft notes</a></li>
+<li>Phylogeny&nbsp;<a href="2/phylogeny.pdf" data-smd-id="s14">notes</a>,&nbsp;<a href="2/phylogeny-slides.pdf" data-smd-id="s15">slides&nbsp;</a>.&nbsp;</li>
+<li><a href="2/structuralmotifs-cc.pdf" data-smd-id="s16">Protein structural motif recognition</a></li>
+<li><a href="2/threading.pdf" data-smd-id="s17">Protein threading</a></li>
+<li><a href="2/sec-structure.pdf" data-smd-id="s18">Protein secondary structure prediction notes</a>,&nbsp;<a href="2/Chapter29.pdf" data-smd-id="s19">Review article</a>.</li>
+<li><a href="2/DNA-chips.pdf" data-smd-id="s20">Gene expression analysis</a>.</li>
+</ul>
+</br>
