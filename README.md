@@ -100,7 +100,19 @@ for All</a></li>
 <li><a class="internal-link" title="Chemistry5" href="Chemistry5.pdf">Chemistry 5</a></li>
 </ul>
 
+<h4 id="parent-fieldname-title" class="documentFirstHeading">Biochemistry Notes</h4>
 
+<ul>
+<li><a class="internal-link" title="Biochemistry1" href="Biochemistry1.pdf">Biochemistry 1</a></li>
+<li><a class="internal-link" title="Biochemistry2" href="Biochemistry2.pdf">Biochemistry 2</a></li>
+<li><a class="internal-link" title="Biochemistry3" href="Biochemistry3.pdf">Biochemistry 3</a></li>
+<li><a class="internal-link" title="Biochemistry4" href="Biochemistry4.pdf">Biochemistry 4</a></li>
+<li><a class="internal-link" title="Biochemistry5" href="Biochemistry5.pdf">Biochemistry 5</a></li>
+<li><a class="internal-link" title="Biochemistry6" href="Biochemistry6.pdf">Biochemistry 6</a></li>
+<li><a class="internal-link" title="Biochemistry7" href="Biochemistry7.pdf">Biochemistry 7</a></li>
+<li><a class="internal-link" title="Biochemistry8" href="Biochemistry8.pdf">Biochemistry 8</a></li>
+<li><a class="internal-link" title="Biochemistry9" href="Biochemistry9.pdf">Biochemistry 9</a></li>
+</ul>
 
 
 
