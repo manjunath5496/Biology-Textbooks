@@ -403,7 +403,7 @@ Structures</a></li>
 <li>Multiple sequence alignments,&nbsp;<a href="2/msa1.pdf" data-smd-id="s7">part I</a>,&nbsp;<a href="2/msa2.pdf" data-smd-id="s8">part II</a>,&nbsp;<a href="2/MSA-slides.pdf" data-smd-id="s9">slides</a></li>
 <li>Database Searching: Blast and Fast. (<a href="2/database.pdf" data-smd-id="s10">Draft notes</a>)</li>
 <li><a href="2/profiles.pdf" data-smd-id="s11">Motifs and profile analysis</a>.</li>
-<li><a href="2/HMM1.pdf" data-smd-id="s12">HMMs and profile analysis</a>,&nbsp;</li>
+<li><a href="2/HMM1.pdf" data-smd-id="s12">HMMs and profile analysis</a>.&nbsp;</li>
 <li>Phylogeny&nbsp;<a href="2/phylogeny.pdf" data-smd-id="s14">notes</a>,&nbsp;<a href="2/phylogeny-slides.pdf" data-smd-id="s15">slides&nbsp;</a>.&nbsp;</li>
 <li><a href="2/structuralmotifs-cc.pdf" data-smd-id="s16">Protein structural motif recognition</a></li>
 <li><a href="2/threading.pdf" data-smd-id="s17">Protein threading</a></li>
