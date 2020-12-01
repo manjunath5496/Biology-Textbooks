@@ -45,5 +45,16 @@ Applied Bioinformatics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(21).pdf" style="text-decoration:none;">Chemical Biology and Biochemistry Laboratory Using Genetic Code Expansion Manual</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(22).pdf" style="text-decoration:none;">Conservation Biology
 for All</a></li> 
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(23).pdf" style="text-decoration:none;">A Primer for Computational Biology</a></li> 
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(24).pdf" style="text-decoration:none;">Entomology 311 Lab Manual</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(25).pdf" style="text-decoration:none;">Human Nutrition</a></li> 
+
+
+
+
+
+
  
 </ul>
