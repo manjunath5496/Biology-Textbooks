@@ -8,7 +8,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(1).pdf" style="text-decoration:none;">Anatomy and Physiology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(2).pdf" style="text-decoration:none;">Assortative mixing in networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(2).pdf" style="text-decoration:none;">Concepts of Biology</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(3).pdf" style="text-decoration:none;">
 An introduction to factor graphs </a></li>
