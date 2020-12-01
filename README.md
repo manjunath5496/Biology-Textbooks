@@ -317,7 +317,60 @@ Neocortical Interneurons</a></li>
 
 
 
-
+<table width="524">
+<tbody>
+<tr>
+<td width="85%">
+<p>Integrate 2:&nbsp;<strong>Optimal BioSystems</strong>: Comparative genomics; metabolic, structural, &amp; regulatory network optimization concepts.<br /><a href="lecturenotes/03b_sep23_i2.ppt" data-smd-id="s19">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03b_sep23_i2.pdf" data-smd-id="s20">PDF</a>&nbsp;<br /><a href="lecturenotes/Section01.pdf" data-smd-id="s22">Section 1 notes</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="85%">
+<p>DNA 1:&nbsp;<strong>Genotyping</strong>: What sequencing tells us about populations, polymorphisms, pharmacogenomics; statistics &amp; databases.<br /><a href="lecturenotes/03c_sep30_d1.ppt" data-smd-id="s25">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03c_sep30_d1.pdf" data-smd-id="s26">PDF</a>&nbsp;<br /><a href="lecturenotes/Section02.pdf" data-smd-id="s28">Section 2 notes</a>&nbsp;|&nbsp;&nbsp;<a href="lecturenotes/BioSec2_2003.ppt" data-smd-id="s30">Bio Section notes</a></p>
+</td>
+</tr>
+<tr>
+<td width="85%">
+<p>DNA 2:&nbsp;<strong>Biome sequencing</strong>: What it tells us about conserved functions. Dynamic programming, Blast, Multi-alignment, HiddenMarkovModels.<br /><a href="lecturenotes/03d_oct07_d2.ppt" data-smd-id="s31">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03d_oct07_d2.pdf" data-smd-id="s32">PDF</a>&nbsp;<br /><a href="lecturenotes/Section03.pdf" data-smd-id="s34">Section 3 notes</a>&nbsp;|&nbsp;<a href="lecturenotes/BioSec3_2003.ppt" data-smd-id="s37">Bio Section notes</a></p>
+</td>
+</tr>
+<tr>
+<td width="85%">
+<p>RNA 1:&nbsp;<strong>Quantitation concepts</strong>; Microarrays, library sequencing<br /><a href="lecturenotes/03e_oct14_r1.ppt" data-smd-id="s38">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03e_oct14_r1.pdf" data-smd-id="s39">PDF</a>&nbsp;<br /><a href="lecturenotes/Section04.pdf" data-smd-id="s41">Section 4 notes</a>&nbsp;<br /><a href="sectionnotes/Using_Microarrays.pdf" data-smd-id="s43">Using Microarrays</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="85%">
+<p>RNA 2: Clustering by gene or condition and other regulon data sources Nucleic acid motifs; the nature of biological "proofs".<br /><a href="lecturenotes/03f_oct21_r2.ppt" data-smd-id="s44">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03f_oct21_r2.pdf" data-smd-id="s45">PDF</a>&nbsp;<br /><a href="lecturenotes/Section05.pdf" data-smd-id="s47">Section notes</a>&nbsp;|&nbsp;<a href="lecturenotes/Section05_with_answers.pdf" data-smd-id="s48">Notes w/answers</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="85%">
+<p>Protein 1: 3D structural genomics, homology, catalytic and regulatory dynamics, function &amp; drug design.<br /><a href="lecturenotes/03g_oct28_p1.ppt" data-smd-id="s50">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03g_oct28_p1.pdf" data-smd-id="s51">PDF</a>&nbsp;<br /><a href="lecturenotes/Section06.pdf" data-smd-id="s53">Section notes</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="85%">
+<p>Protein 2: Mass spectrometry, post-synthetic modifications, quantitation of proteins, metabolites, &amp; interactions.<br /><a href="lecturenotes/03h_nov04_p2.ppt" data-smd-id="s55">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03h_nov04_p2.pdf" data-smd-id="s56">PDF</a>&nbsp;<br /><a href="lecturenotes/Section07.pdf" data-smd-id="s58">Section notes</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="85%">
+<p>Networks 1: Systems Biology, Metabolic kinetic &amp; flux balance optimization methods<br /><a href="lecturenotes/03i_nov11_n1.ppt" data-smd-id="s60">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03i_nov11_n1.pdf" data-smd-id="s61">PDF</a>&nbsp;<br /><a href="lecturenotes/Section08.pdf" data-smd-id="s63">Section notes</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="85%">
+<p>Networks 2: Molecular computing, self-assembly, genetic algorithms, neural networks<br /><a href="lecturenotes/03j_nov18_n2.ppt" data-smd-id="s65">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03j_nov18_n2.pdf" data-smd-id="s66">PDF</a>&nbsp;<br /><a href="lecturenotes/Section09.pdf" data-smd-id="s68">Section notes</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="85%">
+<p>Networks 3: The future of computational biology: Cellular, developmental, social, ecological &amp; commercial models.<br /><a href="lecturenotes/03k_nov25_n3.ppt" data-smd-id="s70">MS-PPT</a>&nbsp;|&nbsp;<a href="lecturenotes/03k_nov25_n3.pdf" data-smd-id="s71">PDF</a>&nbsp;<br /><a href="lecturenotes/Section10.pdf" data-smd-id="s73">Section notes</a>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
