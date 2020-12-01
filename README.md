@@ -199,3 +199,126 @@ for All</a></li>
 <ul>
 <li><a class="internal-link" title="Evolution1 new" href="file02.pdf">Evolution 1</a></li>
 </ul>
+</br>
+
+<ul>
+</br>
+<h2> Articles </h2>
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(1).pdf" style="text-decoration:none;">A Biological Solution to a Fundamental
+Distributed Computing Problem</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(2).pdf" style="text-decoration:none;">Cytoarchitecture of the cerebral cortex—More than localization</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(3).pdf" style="text-decoration:none;">
+Evolution of the cerebellar cortex: The selective expansion of prefrontal-projecting cerebellar lobules</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(4).pdf" style="text-decoration:none;">A Transcriptomic Atlas of Mouse Neocortical Layers </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(5).pdf" style="text-decoration:none;">
+PAX-6 in development and evolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(6).pdf" style="text-decoration:none;">Oscillatory phase coupling coordinates anatomically dispersed functional cell assemblies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(7).pdf" style="text-decoration:none;">Modularity</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(8).pdf" style="text-decoration:none;"> Cyclopia and defective axial patterning in mice lacking Sonic hedgehog gene function </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(9).pdf" style="text-decoration:none;">A Primary Culture System for Functional Analysis of C. elegans Neurons and Muscle Cells</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(10).pdf" style="text-decoration:none;">Motor neuron columnar fate imposed by
+sequential phases of Hox-c activity</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(11).pdf" style="text-decoration:none;">Functional Brain Networks Develop from a "Local to Distributed" Organization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(12).pdf" style="text-decoration:none;">Evolution of the Primate Brain</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(13).pdf" style="text-decoration:none;">Experience-Induced Neural Circuits That Achieve High Capacity</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(14).pdf" style="text-decoration:none;">Novel Brain-Derived Algorithms Scale Linearly with Number of Processing Elements</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(15).pdf" style="text-decoration:none;">Towards a Mathematical Theory of Cortical Micro-circuits</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(16).pdf" style="text-decoration:none;">Brain development
+during childhood and adolescence: a longitudinal MRI study</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(17).pdf" style="text-decoration:none;">
+Engines of the brain: The computational instruction set of human cognition</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(18).pdf" style="text-decoration:none;">Folks in Folksonomies:
+The Evolution of Computation in Brain Circuitry [excerpt from review of Striedter 2005]</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(19).pdf" style="text-decoration:none;">Machines that learn to segment images: a crucial technology for connectomics</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(20).pdf" style="text-decoration:none;">The Development and Neural
+Basis of Face Recognition: Comment and Speculation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(21).pdf" style="text-decoration:none;">Identifying natural images from human brain activity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(22).pdf" style="text-decoration:none;">Retinal Ganglion Cells with Distinct Directional Preferences Differ in Molecular Identity, Structure, and Central Projections</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(23).pdf" style="text-decoration:none;">Frequency-Dependent Changes in NMDAR-Dependent Synaptic Plasticity</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(24).pdf" style="text-decoration:none;">Hierarchical Bayesian inference in the visual cortex</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(25).pdf" style="text-decoration:none;">What the frog's eye tells the frog's brain</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(26).pdf" style="text-decoration:none;">Gene regulatory networks for development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(27).pdf" style="text-decoration:none;">On the Nature and Evolution of the Neural Bases of Human Language</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(28).pdf" style="text-decoration:none;">Gene networks controlling early cerebral cortex arealization</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(29).pdf" style="text-decoration:none;">Reciprocal Limbic-Cortical Function and Negative Mood: Converging PET Findings in Depression and Normal Sadness </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(30).pdf" style="text-decoration:none;">Molecular Gradients and
+Development of Retinotopic Maps</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(31).pdf" style="text-decoration:none;">Predicting Human Brain Activity
+Associated with the Meanings of Nouns</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(32).pdf" style="text-decoration:none;">On the computational architecture of the neocortex: I. The role of the thalamo-cortical loop</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(33).pdf" style="text-decoration:none;">On the computational architecture of the neocortex: II The role of cortico-cortical loops</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(34).pdf" style="text-decoration:none;">Theory of Self-Reproducing Automata: Fourth Lecture: The Role of High and of Extremely High Complication</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(35).pdf" style="text-decoration:none;">Rewiring Cortex: Functional Plasticity of the Auditory Cortex during Development</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(36).pdf" style="text-decoration:none;">A neuronal morphologic type unique to humans and great apes</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(37).pdf" style="text-decoration:none;">Reconstructing Visual Experiences from
+Brain Activity Evoked by Natural Movies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(38).pdf" style="text-decoration:none;">Mutations affecting segment number and
+polarity in Drosophila</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(39).pdf" style="text-decoration:none;">Biologically Based Computational
+Models of High-Level Cognition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(40).pdf" style="text-decoration:none;">Neural connections of the posteromedial cortex in the macaque</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(41).pdf" style="text-decoration:none;">Developments in 'The Synthesis of Reliable Organisms from Unreliable Components'</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(42).pdf" style="text-decoration:none;">The discovery of cerebral diversity: an unwelcome scientific revolution </a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(43).pdf" style="text-decoration:none;">Derivation and analysis of basic computational operations of thalamocortical circuits</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(44).pdf" style="text-decoration:none;">Unsupervised learning models of primary cortical receptive fields and receptive field plasticity</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(45).pdf" style="text-decoration:none;">Deep Brain Stimulation to Reward Circuitry Alleviates Anhedonia in Refractory Major Depression</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(46).pdf" style="text-decoration:none;">Prefrontal Cortex in Humans and Apes:
+A Comparative Study of Area 10</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(47).pdf" style="text-decoration:none;">Limbic–frontal circuitry in major depression: a path modeling metanalysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(48).pdf" style="text-decoration:none;">The Organization of Local and Distant Functional Connectivity in the Human Brain</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(49).pdf" style="text-decoration:none;">Reading the Book of Memory: Sparse Sampling versus Dense Mapping of Connectomes</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(50).pdf" style="text-decoration:none;">Rethinking Thinking</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(51).pdf" style="text-decoration:none;">Cerebellum development during childhood and adolescence: a longitudinal morphometric MRI study</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(52).pdf" style="text-decoration:none;">Parallels between sensory and motor information processing</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(53).pdf" style="text-decoration:none;">The Psychological Foundations of Culture</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(54).pdf" style="text-decoration:none;">Memorization and Association on a Realistic Neural Model</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(55).pdf" style="text-decoration:none;">Visual behaviour mediated by retinal
+projections directed to the auditory pathway</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(56).pdf" style="text-decoration:none;">Origin and Classification of
+Neocortical Interneurons</a></li>
+</ul>
+
+
+
+
+
+
+
+
