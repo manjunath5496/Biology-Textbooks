@@ -333,7 +333,9 @@ Structures</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(64).pdf" style="text-decoration:none;">The Relationship between Protein Structure and Function: a Comprehensive Survey with Application to the Yeast Genome</a></li>
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(66).pdf" style="text-decoration:none;">Xenopus Development</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/sdu(67).pdf" style="text-decoration:none;">Eye development in vertebrates and Drosophila</a></li>
 
 
 
