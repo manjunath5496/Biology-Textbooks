@@ -131,4 +131,12 @@ for All</a></li>
 <li><a class="internal-link" title="MolecularBiology7" href="MolecularBiology7.pdf">MolecularBiology 7</a></li>
 </ul>
 
+<h4 id="parent-fieldname-title" class="documentFirstHeading">Cancer Notes</h4>
+
+<ul>
+<li><a class="internal-link" title="Cancer1" href="Cancer1.pdf">Cancer 1</a></li>
+<li><a class="internal-link" title="Cancer2" href="Cancer2.pdf">Cancer 2</a></li>
+<li><a class="internal-link" title="Cancer3" href="Cancer3.pdf">Cancer 3</a></li>
+<li><a class="internal-link" title="Cancer4" href="Cancer4.pdf">Cancer 4</a></li>
+</ul>
 
