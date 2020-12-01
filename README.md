@@ -91,6 +91,14 @@ for All</a></li>
 <li><a class="internal-link" title="Genetics7" href="Genetics7.pdf">Genetics 7</a></li>
 </ul>
 
+<h4 id="parent-fieldname-title" class="documentFirstHeading">Chemistry Notes</h4>
+<ul>
+<li><a class="internal-link" title="Chemistry1" href="Chemistry1.pdf">Chemistry 1</a></li>
+<li><a class="internal-link" title="Chemistry2" href="Chemistry2.pdf">Chemistry 2</a></li>
+<li><a class="internal-link" title="Chemistry3" href="Chemistry3.pdf">Chemistry 3</a></li>
+<li><a class="internal-link" title="Chemistry4" href="Chemistry4.pdf">Chemistry 4</a></li>
+<li><a class="internal-link" title="Chemistry5" href="Chemistry5.pdf">Chemistry 5</a></li>
+</ul>
 
 
 
