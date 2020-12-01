@@ -77,7 +77,7 @@ for All</a></li>
 <li><a class="internal-link" title="Introduction1" href="Introduction1.pdf">Introduction 1</a></li>
 <li><a class="internal-link" title="Introduction2" href="Introduction2.pdf">Introduction 2</a></li>
 </ul>
-
+<h4>Lecture Notes</h4><hr>
 <h4 id="parent-fieldname-title" class="documentFirstHeading">Genetics</h4>
 
 <ul>
