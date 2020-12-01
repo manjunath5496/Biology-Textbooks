@@ -61,3 +61,20 @@ for All</a></li>
 
  
 </ul>
+
+</br>
+
+<h2>Lecture Handouts</h2>
+<p class="style4"><span class="style8"><strong>Lecture Topic 1:</strong>&nbsp;<a class="internal-link" title="GenAll" href="GenAll.pdf" target="_blank">Genetics (Handouts 1-6)</a></span></p>
+<p class="style9"><strong>Lecture Topic 2:</strong>&nbsp;<a class="internal-link" title="ChemAll" href="ChemAll.pdf" target="_blank">Chemistry (Handouts 1-5)</a></p>
+<p class="style9"><strong>Lecture Topic 3:</strong>&nbsp;<a class="internal-link" title="BioChemAll copy" href="BioChemAll%20copy.pdf" target="_blank">BioChemistry (Handouts 1-9)</a></p>
+<p class="style9"><strong>Lecture Topic 4:</strong>&nbsp;<a class="internal-link" title="CellBioAll" href="CellBioAll.pdf" target="_blank">Cell Biology (Handouts 1-2)</a></p>
+<p class="style9"><strong>Lecture Topic 5:</strong>&nbsp;<a class="internal-link" title="MoBoAll" href="MoBoAll.pdf" target="_blank">Molecular Biology (Handouts 1-8)</a></p>
+<p class="style4"><span class="style8"><strong>Lecture Topic 6:</strong></span>&nbsp;<a class="internal-link" title="CancerAll" href="CancerAll.pdf" target="_blank">Cancer (Handouts 1-4)</a></p>
+
+
+
+
+
+
+
