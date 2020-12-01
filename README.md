@@ -13,5 +13,5 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(3).pdf" style="text-decoration:none;">
 Biology for AP Courses </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(4).pdf" style="text-decoration:none;">Microbiology</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(5).pdf" style="text-decoration:none;">A measure of betweenness centrality based on random walks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Textbooks/blob/master/bio(5).pdf" style="text-decoration:none;">Biology 2e</a></li>
 </ul>
